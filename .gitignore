@@ -1,0 +1,7 @@
+# Maven-generated
+target/
+
+# IDEA project
+.idea
+/out/
+*.iml
